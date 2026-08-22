@@ -1,0 +1,6 @@
+{
+  "name": "InterviewIQ",
+  "description": "AI-powered personalized resume analysis, dynamic interview question generation, realistic mock interviews, and performance analytics.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
